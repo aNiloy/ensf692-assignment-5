@@ -1,2 +1,5 @@
 Flask==2.2.2
 beautifulsoup4 == 4.11.1
+Werkzeug==2.2.2
+pandas
+requests
